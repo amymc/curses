@@ -1,0 +1,17 @@
+{
+  "name": "curses_api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongodb": "^2.2.9",
+    "mongoose": "~4.6.0"
+  },
+  "author": "amymc",
+  "license": "ISC"
+}
